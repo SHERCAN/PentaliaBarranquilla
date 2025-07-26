@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="HMITags Log_1.html" projectName="C:\Users\Yesid\Documents\Automation\HMITags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Warning" dateTime="3:25:32 PM">
+    <Message>The value UDT_Objetos.Valvulas.VM-27-2.control of HMI tag UDT_Objetos_Valvulas_VM-27-2_control was not found in worksheet Hmi Tags, row 18, column PLC tag. UDT_Objetos_Valvulas_VM-27-2_control is not completely imported.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="3:25:32 PM">
+    <Message>The property Length of HMI tag UDT_Objetos_Valvulas_VM-62_estado in worksheet Hmi Tags, row 70, column Length is read only and is ignored.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="3:25:32 PM">
+    <Message>The property Length of HMI tag UDT_Objetos_Valvulas_VM-63_estado in worksheet Hmi Tags, row 71, column Length is read only and is ignored.</Message>
+  </LogEntry>
+  <LogEntry type="Information" dateTime="3:25:32 PM">
+    <Message>Import finished: 70 tag(s) imported.</Message>
+  </LogEntry>
+</LogFile>
