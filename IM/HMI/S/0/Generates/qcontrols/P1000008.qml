@@ -328,13 +328,13 @@ IGuiPage
 	{
 		id: q486539391
 		objId: 486539391
-		x: 113
-		y: 177
+		x: 418
+		y: 393
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -354,13 +354,13 @@ IGuiPage
 	{
 		id: q486539392
 		objId: 486539392
-		x: 418
+		x: 683
 		y: 393
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -380,13 +380,13 @@ IGuiPage
 	{
 		id: q486539393
 		objId: 486539393
-		x: 683
+		x: 518
 		y: 393
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -406,13 +406,13 @@ IGuiPage
 	{
 		id: q486539394
 		objId: 486539394
-		x: 518
-		y: 393
+		x: 103
+		y: 209
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -428,30 +428,23 @@ IGuiPage
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
 	}
-	IGuiButton
+	IGuiIOField
 	{
-		id: q486539395
-		objId: 486539395
-		x: 114
-		y: 237
-		width: 85
-		height: 39
-		qm_BorderCornerRadius: 15
+		id: q33554587
+		objId: 33554587
+		x: 351
+		y: 221
+		width: 54
+		height: 19
+		qm_BorderCornerRadius: 7
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
-		qm_Border.top: 17
-		qm_Border.bottom: 17
-		qm_Border.right: 17
-		qm_Border.left: 17
-		qm_FillColor: "#ffe7e3e7"
+		qm_RectangleBorder.color:"#ff424952"
+		qm_FillColor: "#ffffffff"
 		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
 		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 1
-		qm_Anchors.leftMargin: 1
-		qm_Anchors.rightMargin: 1
-		qm_Anchors.topMargin: 1
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
+		qm_Anchors.bottomMargin: 3
+		qm_Anchors.leftMargin: 4
+		qm_Anchors.rightMargin: 3
+		qm_Anchors.topMargin: 3
 	}
 }

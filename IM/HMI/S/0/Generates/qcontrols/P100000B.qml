@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiButton
 	{
-		id: q486539400
-		objId: 486539400
+		id: q486539399
+		objId: 486539399
 		x: 694
 		y: 0
 		width: 106
@@ -152,8 +152,8 @@ IGuiPage
 	{
 		id: q335544350
 		objId: 335544350
-		x: 276
-		y: 210
+		x: 362
+		y: 243
 		width: 30
 		height: 30
 		qm_Transparent : true 
@@ -166,7 +166,7 @@ IGuiPage
 	{
 		id: q335544351
 		objId: 335544351
-		x: 238
+		x: 362
 		y: 146
 		width: 30
 		height: 30
@@ -250,8 +250,8 @@ IGuiPage
 	{
 		id: q335544357
 		objId: 335544357
-		x: 600
-		y: 231
+		x: 601
+		y: 189
 		width: 50
 		height: 50
 		qm_Transparent : true 
@@ -312,8 +312,8 @@ IGuiPage
 	{
 		id: q671088655
 		objId: 671088655
-		x: 690
-		y: 246
+		x: 691
+		y: 204
 		width: 20
 		height: 20
 		qm_BorderWidth: 1
@@ -346,7 +346,7 @@ IGuiPage
 	{
 		id: q33554454
 		objId: 33554454
-		x: 147
+		x: 271
 		y: 191
 		width: 71
 		height: 19
@@ -363,15 +363,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539401
-		objId: 486539401
-		x: 282
+		id: q486539400
+		objId: 486539400
+		x: 415
 		y: 117
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -389,15 +389,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539402
-		objId: 486539402
-		x: 153
+		id: q486539401
+		objId: 486539401
+		x: 289
 		y: 117
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -426,7 +426,7 @@ IGuiPage
 		qm_Font.family: "Tahoma"
 		qm_Font.bold: true
 		qm_BorderCornerRadius: 4
-		qm_ImageSource: "image://QSmartImageProvider/46#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/42#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0
@@ -487,7 +487,7 @@ IGuiPage
 		qm_Font.family: "Tahoma"
 		qm_Font.bold: true
 		qm_BorderCornerRadius: 4
-		qm_ImageSource: "image://QSmartImageProvider/46#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/42#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0
@@ -548,7 +548,7 @@ IGuiPage
 		qm_Font.family: "Tahoma"
 		qm_Font.bold: true
 		qm_BorderCornerRadius: 4
-		qm_ImageSource: "image://QSmartImageProvider/46#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/42#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0

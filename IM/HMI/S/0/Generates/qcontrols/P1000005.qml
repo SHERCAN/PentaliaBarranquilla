@@ -10,15 +10,15 @@ IGuiPage
 	height: 480
 	IGuiButton
 	{
-		id: q486539436
-		objId: 486539436
+		id: q486539435
+		objId: 486539435
 		x: 23
 		y: 130
 		width: 106
 		height: 56
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/231#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/222#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -36,8 +36,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539437
-		objId: 486539437
+		id: q486539436
+		objId: 486539436
 		x: 23
 		y: 199
 		width: 106

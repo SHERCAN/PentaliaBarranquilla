@@ -236,7 +236,7 @@ IGuiPage
 	{
 		id: q335544338
 		objId: 335544338
-		x: 636
+		x: 650
 		y: 247
 		width: 30
 		height: 30
@@ -251,7 +251,7 @@ IGuiPage
 		id: q335544339
 		objId: 335544339
 		x: 521
-		y: 136
+		y: 150
 		width: 50
 		height: 50
 		qm_Transparent : true 
@@ -264,7 +264,7 @@ IGuiPage
 	{
 		id: q335544340
 		objId: 335544340
-		x: 621
+		x: 662
 		y: 358
 		width: 30
 		height: 30
@@ -279,7 +279,7 @@ IGuiPage
 		id: q33554443
 		objId: 33554443
 		x: 254
-		y: 161
+		y: 185
 		width: 71
 		height: 19
 		qm_BorderCornerRadius: 7
@@ -317,7 +317,7 @@ IGuiPage
 		id: q671088650
 		objId: 671088650
 		x: 608
-		y: 150
+		y: 164
 		width: 20
 		height: 20
 		qm_BorderWidth: 1
@@ -332,12 +332,12 @@ IGuiPage
 		id: q486539384
 		objId: 486539384
 		x: 9
-		y: 203
+		y: 211
 		width: 85
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -363,7 +363,7 @@ IGuiPage
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -389,7 +389,7 @@ IGuiPage
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -456,7 +456,7 @@ IGuiPage
 		qm_Font.family: "Tahoma"
 		qm_Font.bold: true
 		qm_BorderCornerRadius: 4
-		qm_ImageSource: "image://QSmartImageProvider/46#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/42#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0
@@ -489,9 +489,9 @@ IGuiPage
 	{
 		id: q33554448
 		objId: 33554448
-		x: 372
+		x: 358
 		y: 340
-		width: 44
+		width: 58
 		height: 19
 		qm_BorderCornerRadius: 7
 		qm_BorderWidth: 1

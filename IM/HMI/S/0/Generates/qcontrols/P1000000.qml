@@ -152,8 +152,8 @@ IGuiPage
 	{
 		id: q335544321
 		objId: 335544321
-		x: 36
-		y: 181
+		x: 24
+		y: 287
 		width: 30
 		height: 30
 		qm_Transparent : true 
@@ -166,8 +166,8 @@ IGuiPage
 	{
 		id: q335544322
 		objId: 335544322
-		x: 160
-		y: 272
+		x: 159
+		y: 338
 		width: 30
 		height: 30
 		qm_Transparent : true 
@@ -180,8 +180,8 @@ IGuiPage
 	{
 		id: q335544323
 		objId: 335544323
-		x: 215
-		y: 275
+		x: 214
+		y: 330
 		width: 50
 		height: 50
 		qm_Transparent : true 
@@ -194,8 +194,8 @@ IGuiPage
 	{
 		id: q335544324
 		objId: 335544324
-		x: 247
-		y: 212
+		x: 263
+		y: 248
 		width: 50
 		height: 50
 		qm_Transparent : true 
@@ -344,16 +344,16 @@ IGuiPage
 	{
 		id: q50331648
 		objId: 50331648
-		x: 134
-		y: 209
+		x: 135
+		y: 349
 		width: 14
-		height: 93
+		height: 55
 		qm_FillColor: "#fff7f3f7"
 		qm_Font.pixelSize: 11
 		qm_Font.family: "Tahoma"
 		qm_Font.bold: true
 		qm_BorderCornerRadius: 4
-		qm_ImageSource: "image://QSmartImageProvider/46#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/42#2#4#128#0#0"
 		qm_Border.top: 0
 		qm_Border.bottom: 0
 		qm_Border.right: 0
@@ -367,8 +367,8 @@ IGuiPage
 	{
 		id: q671088649
 		objId: 671088649
-		x: 275
-		y: 183
+		x: 292
+		y: 218
 		width: 20
 		height: 20
 		qm_BorderWidth: 1
@@ -388,7 +388,7 @@ IGuiPage
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -414,7 +414,7 @@ IGuiPage
 		height: 39
 		qm_BorderCornerRadius: 15
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/49#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/43#2#4#128#0#0"
 		qm_Border.top: 17
 		qm_Border.bottom: 17
 		qm_Border.right: 17
@@ -434,8 +434,8 @@ IGuiPage
 	{
 		id: q33554439
 		objId: 33554439
-		x: 74
-		y: 236
+		x: 60
+		y: 368
 		width: 58
 		height: 19
 		qm_BorderCornerRadius: 7
@@ -453,9 +453,9 @@ IGuiPage
 	{
 		id: q33554440
 		objId: 33554440
-		x: 88
-		y: 256
-		width: 44
+		x: 60
+		y: 388
+		width: 58
 		height: 19
 		qm_BorderCornerRadius: 7
 		qm_BorderWidth: 1
