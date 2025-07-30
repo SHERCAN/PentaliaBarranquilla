@@ -87,8 +87,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539529
-		objId: 486539529
+		id: q486539293
+		objId: 486539293
 		x: 399
 		y: 440
 		width: 99
@@ -113,8 +113,8 @@ IGuiTemplate
 	}
 	IGuiAlarmView
 	{
-		id: q402653185
-		objId: 402653185
+		id: q402653184
+		objId: 402653184
 		x: 110
 		y: 1
 		width: 690
@@ -125,8 +125,8 @@ IGuiTemplate
 		qm_FillColor: "#fff7f3f7"
 		IGuiListCtrl
 		{
-			id: qu402653185
-			objectName: "qu402653185"
+			id: qu402653184
+			objectName: "qu402653184"
 			x: 2
 			y: 2
 			width: 686
@@ -143,7 +143,7 @@ IGuiTemplate
 			qm_list.qm_tableTextColor: "#ff181c31"
 			qm_list.qm_tableSelectTextColor: "#ffffffff"
 			qm_list.qm_tableAlternateTextColor: "#ff181c31"
-			qm_scrollCtrl: qus402653185
+			qm_scrollCtrl: qus402653184
 
 			qm_hasHeader: true
 			qm_hasBorder: true
@@ -154,12 +154,12 @@ IGuiTemplate
 			qm_list.qm_gridLineColor: "#ffffffff"
 			qm_columnTypeList: [0, 0, 0, 0, 0]
 			totalColumnWidth: 659
-			qm_headerItem: qh402653185
+			qm_headerItem: qh402653184
 			IGuiListHeader
 			{
-				id: qh402653185
+				id: qh402653184
 				width: 659
-				qm_listItem: qu402653185
+				qm_listItem: qu402653184
 				qm_columnWidthList: [24, 60, 86, 78, 411]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
@@ -190,15 +190,15 @@ IGuiTemplate
 			}
 			IGuiListScrollBarCtrl
 			{
-				id: qus402653185
+				id: qus402653184
 
 			}
 		}
 	}
 	IGuiGraphicView
 	{
-		id: q301989894
-		objId: 301989894
+		id: q301989888
+		objId: 301989888
 		x: 0
 		y: 0
 		width: 112
@@ -213,8 +213,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539530
-		objId: 486539530
+		id: q486539294
+		objId: 486539294
 		x: 498
 		y: 441
 		width: 99
@@ -239,8 +239,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539531
-		objId: 486539531
+		id: q486539295
+		objId: 486539295
 		x: 597
 		y: 441
 		width: 99
