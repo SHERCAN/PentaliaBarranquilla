@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiTrendView
 	{
-		id: q469762056
-		objId: 469762056
+		id: q469762058
+		objId: 469762058
 		x: 0
 		y: 57
 		width: 800
@@ -30,8 +30,8 @@ IGuiPage
 		qm_TrendHeight: 278
 		IGuiListCtrl
 		{
-			id: qu469762056
-			objectName: "qu469762056"
+			id: qu469762058
+			objectName: "qu469762058"
 			x: 6
 			y: 318
 			width: 788
@@ -48,7 +48,7 @@ IGuiPage
 			qm_list.qm_tableTextColor: "#ff181c31"
 			qm_list.qm_tableSelectTextColor: "#ff424952"
 			qm_list.qm_tableAlternateTextColor: "#ff181c31"
-			qm_scrollCtrl: qus469762056
+			qm_scrollCtrl: qus469762058
 
 			qm_hasHeader: true
 			qm_hasBorder: true
@@ -59,12 +59,12 @@ IGuiPage
 			qm_list.qm_gridLineColor: "#ffffffff"
 			qm_columnTypeList: [0, 0, 0, 0]
 			totalColumnWidth: 761
-			qm_headerItem: qh469762056
+			qm_headerItem: qh469762058
 			IGuiListHeader
 			{
-				id: qh469762056
+				id: qh469762058
 				width: 761
-				qm_listItem: qu469762056
+				qm_listItem: qu469762058
 				qm_columnWidthList: [350, 106, 143, 162]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
@@ -95,15 +95,15 @@ IGuiPage
 			}
 			IGuiListScrollBarCtrl
 			{
-				id: qus469762056
+				id: qus469762058
 
 			}
 			qm_UseRowSpecificColor: true
 		}
 		IGuiGraphicSwitch
 		{
-			id: q352321544
-			objId: 352321544
+			id: q352321546
+			objId: 352321546
 			x: 7
 			y: 280
 			width: 44
@@ -128,8 +128,8 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539707
-			objId: 486539707
+			id: q486539662
+			objId: 486539662
 			x: 56
 			y: 280
 			width: 44
@@ -154,8 +154,8 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539708
-			objId: 486539708
+			id: q486539663
+			objId: 486539663
 			x: 105
 			y: 280
 			width: 44
@@ -180,8 +180,8 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539709
-			objId: 486539709
+			id: q486539664
+			objId: 486539664
 			x: 154
 			y: 280
 			width: 44
@@ -206,8 +206,8 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539710
-			objId: 486539710
+			id: q486539665
+			objId: 486539665
 			x: 203
 			y: 280
 			width: 44
@@ -232,8 +232,8 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539711
-			objId: 486539711
+			id: q486539666
+			objId: 486539666
 			x: 252
 			y: 280
 			width: 44
@@ -259,8 +259,8 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539706
-		objId: 486539706
+		id: q486539661
+		objId: 486539661
 		x: 699
 		y: 0
 		width: 99
