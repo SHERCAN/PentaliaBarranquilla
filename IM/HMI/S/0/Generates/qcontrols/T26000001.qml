@@ -9,8 +9,8 @@ IGuiTemplate
 	height: 480
 	IGuiButton
 	{
-		id: q486539729
-		objId: 486539729
+		id: q486539653
+		objId: 486539653
 		x: 400
 		y: 440
 		width: 100
@@ -35,8 +35,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539730
-		objId: 486539730
+		id: q486539654
+		objId: 486539654
 		x: 300
 		y: 440
 		width: 100
@@ -61,8 +61,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539731
-		objId: 486539731
+		id: q486539655
+		objId: 486539655
 		x: 500
 		y: 440
 		width: 99
@@ -87,8 +87,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539732
-		objId: 486539732
+		id: q486539656
+		objId: 486539656
 		x: 599
 		y: 440
 		width: 100

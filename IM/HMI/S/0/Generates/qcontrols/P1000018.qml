@@ -10,16 +10,16 @@ IGuiPage
 	height: 480
 	IGuiContainer
 	{
-		id: q369098842
-		objId: 369098842
+		id: q369098812
+		objId: 369098812
 		x: 5
 		y: 16
 		width: 259
 		height: 198
 		IGuiQmlRectangle
 		{
-			id: q671088749
-			objId: 671088749
+			id: q671088727
+			objId: 671088727
 			x: 0
 			y: 0
 			width: 259
@@ -32,15 +32,15 @@ IGuiPage
 		}
 		IGuiIOField
 		{
-			id: q33554579
-			objId: 33554579
+			id: q33554561
+			objId: 33554561
 			x: 15
 			y: 71
 			width: 96
 			height: 32
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 4
-			qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 			qm_Border.top: 5
 			qm_Border.bottom: 5
 			qm_Border.right: 5
@@ -57,8 +57,8 @@ IGuiPage
 		}
 		IGuiTextField
 		{
-			id: q268435673
-			objId: 268435673
+			id: q268435633
+			objId: 268435633
 			x: 109
 			y: 10
 			width: 42
@@ -74,8 +74,8 @@ IGuiPage
 		}
 		IGuiTextField
 		{
-			id: q268435674
-			objId: 268435674
+			id: q268435634
+			objId: 268435634
 			x: 6
 			y: 32
 			width: 114
@@ -91,15 +91,15 @@ IGuiPage
 		}
 		IGuiIOField
 		{
-			id: q33554580
-			objId: 33554580
+			id: q33554562
+			objId: 33554562
 			x: 15
 			y: 144
 			width: 96
 			height: 32
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 4
-			qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 			qm_Border.top: 5
 			qm_Border.bottom: 5
 			qm_Border.right: 5
@@ -116,8 +116,8 @@ IGuiPage
 		}
 		IGuiTextField
 		{
-			id: q268435675
-			objId: 268435675
+			id: q268435635
+			objId: 268435635
 			x: 6
 			y: 105
 			width: 114
@@ -133,15 +133,15 @@ IGuiPage
 		}
 		IGuiIOField
 		{
-			id: q33554581
-			objId: 33554581
+			id: q33554563
+			objId: 33554563
 			x: 144
 			y: 144
 			width: 96
 			height: 32
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 4
-			qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 			qm_Border.top: 5
 			qm_Border.bottom: 5
 			qm_Border.right: 5
@@ -158,8 +158,8 @@ IGuiPage
 		}
 		IGuiTextField
 		{
-			id: q268435676
-			objId: 268435676
+			id: q268435636
+			objId: 268435636
 			x: 151
 			y: 105
 			width: 82
@@ -175,15 +175,15 @@ IGuiPage
 		}
 		IGuiIOField
 		{
-			id: q33554582
-			objId: 33554582
+			id: q33554564
+			objId: 33554564
 			x: 145
 			y: 71
 			width: 96
 			height: 32
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 4
-			qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 			qm_Border.top: 5
 			qm_Border.bottom: 5
 			qm_Border.right: 5
@@ -200,8 +200,8 @@ IGuiPage
 		}
 		IGuiTextField
 		{
-			id: q268435677
-			objId: 268435677
+			id: q268435637
+			objId: 268435637
 			x: 152
 			y: 32
 			width: 85
@@ -218,8 +218,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088750
-		objId: 671088750
+		id: q671088728
+		objId: 671088728
 		x: 5
 		y: 224
 		width: 259
@@ -232,15 +232,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554591
-		objId: 33554591
+		id: q33554573
+		objId: 33554573
 		x: 20
 		y: 295
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -257,8 +257,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435689
-		objId: 268435689
+		id: q268435649
+		objId: 268435649
 		x: 114
 		y: 234
 		width: 42
@@ -274,8 +274,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435690
-		objId: 268435690
+		id: q268435650
+		objId: 268435650
 		x: 11
 		y: 256
 		width: 114
@@ -291,15 +291,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554592
-		objId: 33554592
+		id: q33554574
+		objId: 33554574
 		x: 20
 		y: 368
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -316,8 +316,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435691
-		objId: 268435691
+		id: q268435651
+		objId: 268435651
 		x: 11
 		y: 329
 		width: 114
@@ -333,15 +333,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554593
-		objId: 33554593
+		id: q33554575
+		objId: 33554575
 		x: 149
 		y: 368
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -358,8 +358,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435692
-		objId: 268435692
+		id: q268435652
+		objId: 268435652
 		x: 156
 		y: 329
 		width: 82
@@ -375,15 +375,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554594
-		objId: 33554594
+		id: q33554576
+		objId: 33554576
 		x: 150
 		y: 295
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -400,8 +400,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435693
-		objId: 268435693
+		id: q268435653
+		objId: 268435653
 		x: 157
 		y: 256
 		width: 85
@@ -417,8 +417,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088753
-		objId: 671088753
+		id: q671088731
+		objId: 671088731
 		x: 271
 		y: 224
 		width: 259
@@ -431,15 +431,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554595
-		objId: 33554595
+		id: q33554577
+		objId: 33554577
 		x: 286
 		y: 295
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -456,8 +456,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435694
-		objId: 268435694
+		id: q268435654
+		objId: 268435654
 		x: 380
 		y: 234
 		width: 42
@@ -473,8 +473,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435695
-		objId: 268435695
+		id: q268435655
+		objId: 268435655
 		x: 277
 		y: 256
 		width: 114
@@ -490,15 +490,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554596
-		objId: 33554596
+		id: q33554578
+		objId: 33554578
 		x: 286
 		y: 368
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -515,8 +515,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435696
-		objId: 268435696
+		id: q268435656
+		objId: 268435656
 		x: 277
 		y: 329
 		width: 114
@@ -532,15 +532,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554597
-		objId: 33554597
+		id: q33554579
+		objId: 33554579
 		x: 415
 		y: 368
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -557,8 +557,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435697
-		objId: 268435697
+		id: q268435657
+		objId: 268435657
 		x: 422
 		y: 329
 		width: 82
@@ -574,15 +574,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554598
-		objId: 33554598
+		id: q33554580
+		objId: 33554580
 		x: 416
 		y: 295
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -599,8 +599,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435698
-		objId: 268435698
+		id: q268435658
+		objId: 268435658
 		x: 423
 		y: 256
 		width: 85
@@ -616,8 +616,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088754
-		objId: 671088754
+		id: q671088732
+		objId: 671088732
 		x: 538
 		y: 224
 		width: 259
@@ -630,15 +630,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554599
-		objId: 33554599
+		id: q33554581
+		objId: 33554581
 		x: 553
 		y: 295
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -655,8 +655,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435699
-		objId: 268435699
+		id: q268435659
+		objId: 268435659
 		x: 647
 		y: 234
 		width: 42
@@ -672,8 +672,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435700
-		objId: 268435700
+		id: q268435660
+		objId: 268435660
 		x: 544
 		y: 256
 		width: 114
@@ -689,15 +689,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554600
-		objId: 33554600
+		id: q33554582
+		objId: 33554582
 		x: 553
 		y: 368
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -714,8 +714,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435701
-		objId: 268435701
+		id: q268435661
+		objId: 268435661
 		x: 544
 		y: 329
 		width: 114
@@ -731,15 +731,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554601
-		objId: 33554601
+		id: q33554583
+		objId: 33554583
 		x: 682
 		y: 368
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -756,8 +756,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435702
-		objId: 268435702
+		id: q268435662
+		objId: 268435662
 		x: 689
 		y: 329
 		width: 82
@@ -773,15 +773,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554602
-		objId: 33554602
+		id: q33554584
+		objId: 33554584
 		x: 683
 		y: 295
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -798,8 +798,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435678
-		objId: 268435678
+		id: q268435638
+		objId: 268435638
 		x: 690
 		y: 256
 		width: 85
@@ -815,8 +815,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088751
-		objId: 671088751
+		id: q671088729
+		objId: 671088729
 		x: 271
 		y: 16
 		width: 259
@@ -829,15 +829,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554583
-		objId: 33554583
+		id: q33554565
+		objId: 33554565
 		x: 286
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -854,8 +854,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435679
-		objId: 268435679
+		id: q268435639
+		objId: 268435639
 		x: 380
 		y: 26
 		width: 42
@@ -871,8 +871,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435680
-		objId: 268435680
+		id: q268435640
+		objId: 268435640
 		x: 277
 		y: 48
 		width: 114
@@ -888,15 +888,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554584
-		objId: 33554584
+		id: q33554566
+		objId: 33554566
 		x: 286
 		y: 160
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -913,8 +913,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435681
-		objId: 268435681
+		id: q268435641
+		objId: 268435641
 		x: 277
 		y: 121
 		width: 114
@@ -930,15 +930,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554585
-		objId: 33554585
+		id: q33554567
+		objId: 33554567
 		x: 415
 		y: 160
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -955,8 +955,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435682
-		objId: 268435682
+		id: q268435642
+		objId: 268435642
 		x: 422
 		y: 121
 		width: 82
@@ -972,15 +972,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554586
-		objId: 33554586
+		id: q33554568
+		objId: 33554568
 		x: 416
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -997,8 +997,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435683
-		objId: 268435683
+		id: q268435643
+		objId: 268435643
 		x: 423
 		y: 48
 		width: 85
@@ -1014,8 +1014,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088752
-		objId: 671088752
+		id: q671088730
+		objId: 671088730
 		x: 538
 		y: 16
 		width: 259
@@ -1028,15 +1028,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554587
-		objId: 33554587
+		id: q33554569
+		objId: 33554569
 		x: 553
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -1053,8 +1053,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435684
-		objId: 268435684
+		id: q268435644
+		objId: 268435644
 		x: 647
 		y: 26
 		width: 42
@@ -1070,8 +1070,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435685
-		objId: 268435685
+		id: q268435645
+		objId: 268435645
 		x: 544
 		y: 48
 		width: 114
@@ -1087,15 +1087,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554588
-		objId: 33554588
+		id: q33554570
+		objId: 33554570
 		x: 553
 		y: 160
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -1112,8 +1112,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435686
-		objId: 268435686
+		id: q268435646
+		objId: 268435646
 		x: 544
 		y: 121
 		width: 114
@@ -1129,15 +1129,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554589
-		objId: 33554589
+		id: q33554571
+		objId: 33554571
 		x: 682
 		y: 160
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -1154,8 +1154,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435687
-		objId: 268435687
+		id: q268435647
+		objId: 268435647
 		x: 689
 		y: 121
 		width: 82
@@ -1171,15 +1171,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554590
-		objId: 33554590
+		id: q33554572
+		objId: 33554572
 		x: 683
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -1196,8 +1196,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435688
-		objId: 268435688
+		id: q268435648
+		objId: 268435648
 		x: 690
 		y: 48
 		width: 85
@@ -1213,15 +1213,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539602
-		objId: 486539602
+		id: q486539526
+		objId: 486539526
 		x: 0
 		y: 440
 		width: 99
 		height: 39
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/90#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/84#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -1238,15 +1238,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539603
-		objId: 486539603
+		id: q486539527
+		objId: 486539527
 		x: 700
 		y: 441
 		width: 99
 		height: 39
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/90#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/84#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5

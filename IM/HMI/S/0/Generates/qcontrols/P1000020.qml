@@ -10,15 +10,15 @@ IGuiPage
 	height: 480
 	IGuiGraphicButton
 	{
-		id: q486539715
-		objId: 486539715
+		id: q486539639
+		objId: 486539639
 		x: 0
 		y: 440
 		width: 99
 		height: 39
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/90#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/84#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -35,15 +35,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539716
-		objId: 486539716
+		id: q486539640
+		objId: 486539640
 		x: 700
 		y: 441
 		width: 99
 		height: 39
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/90#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/84#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -60,8 +60,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088773
-		objId: 671088773
+		id: q671088751
+		objId: 671088751
 		x: 24
 		y: 13
 		width: 201
@@ -74,15 +74,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554643
-		objId: 33554643
+		id: q33554625
+		objId: 33554625
 		x: 77
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -99,8 +99,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435761
-		objId: 268435761
+		id: q268435721
+		objId: 268435721
 		x: 99
 		y: 19
 		width: 51
@@ -116,8 +116,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435762
-		objId: 268435762
+		id: q268435722
+		objId: 268435722
 		x: 94
 		y: 54
 		width: 62
@@ -133,15 +133,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554644
-		objId: 33554644
+		id: q33554626
+		objId: 33554626
 		x: 77
 		y: 165
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -158,8 +158,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435763
-		objId: 268435763
+		id: q268435723
+		objId: 268435723
 		x: 75
 		y: 132
 		width: 100
@@ -175,8 +175,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088774
-		objId: 671088774
+		id: q671088752
+		objId: 671088752
 		x: 240
 		y: 13
 		width: 201
@@ -189,15 +189,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554645
-		objId: 33554645
+		id: q33554627
+		objId: 33554627
 		x: 293
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -214,8 +214,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435764
-		objId: 268435764
+		id: q268435724
+		objId: 268435724
 		x: 314
 		y: 19
 		width: 54
@@ -231,8 +231,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435765
-		objId: 268435765
+		id: q268435725
+		objId: 268435725
 		x: 310
 		y: 54
 		width: 62
@@ -248,8 +248,8 @@ IGuiPage
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088775
-		objId: 671088775
+		id: q671088753
+		objId: 671088753
 		x: 457
 		y: 13
 		width: 201
@@ -262,8 +262,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435766
-		objId: 268435766
+		id: q268435726
+		objId: 268435726
 		x: 531
 		y: 19
 		width: 54
@@ -279,15 +279,15 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554646
-		objId: 33554646
+		id: q33554628
+		objId: 33554628
 		x: 510
 		y: 87
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/89#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
@@ -304,8 +304,8 @@ IGuiPage
 	}
 	IGuiTextField
 	{
-		id: q268435767
-		objId: 268435767
+		id: q268435727
+		objId: 268435727
 		x: 527
 		y: 54
 		width: 62
