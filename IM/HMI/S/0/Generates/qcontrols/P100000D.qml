@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiTrendView
 	{
-		id: q469762050
-		objId: 469762050
+		id: q469762051
+		objId: 469762051
 		x: 0
 		y: 57
 		width: 800
@@ -27,15 +27,15 @@ IGuiPage
 		qm_TrendXPos: 2
 		qm_TrendYPos: 2
 		qm_TrendWidth: 796
-		qm_TrendHeight: 278
+		qm_TrendHeight: 259
 		IGuiListCtrl
 		{
-			id: qu469762050
-			objectName: "qu469762050"
+			id: qu469762051
+			objectName: "qu469762051"
 			x: 6
-			y: 318
+			y: 299
 			width: 788
-			height: 59
+			height: 78
 			qm_list.qm_linesPerRow: 1
 			qm_list.qm_tableRowHeight: 16
 			qm_list.qm_tableMarginLeft: 3
@@ -48,7 +48,7 @@ IGuiPage
 			qm_list.qm_tableTextColor: "#ff181c31"
 			qm_list.qm_tableSelectTextColor: "#ff424952"
 			qm_list.qm_tableAlternateTextColor: "#ff181c31"
-			qm_scrollCtrl: qus469762050
+			qm_scrollCtrl: qus469762051
 
 			qm_hasHeader: true
 			qm_hasBorder: true
@@ -59,12 +59,12 @@ IGuiPage
 			qm_list.qm_gridLineColor: "#ffffffff"
 			qm_columnTypeList: [0, 0, 0, 0]
 			totalColumnWidth: 761
-			qm_headerItem: qh469762050
+			qm_headerItem: qh469762051
 			IGuiListHeader
 			{
-				id: qh469762050
+				id: qh469762051
 				width: 761
-				qm_listItem: qu469762050
+				qm_listItem: qu469762051
 				qm_columnWidthList: [350, 106, 143, 162]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
@@ -76,36 +76,36 @@ IGuiPage
 				qm_tableHeaderMarginTop: 1
 				qm_noOfColumns: 4
 				qm_tableHeaderHeight: 16
-				qm_leftImageID: 22
-				qm_leftTileTop: 4
-				qm_leftTileBottom: 14
+				qm_leftImageID: 236
+				qm_leftTileTop: 9
+				qm_leftTileBottom: 9
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 23
-				qm_middleTileTop: 2
-				qm_middleTileBottom: 15
+				qm_middleImageID: 237
+				qm_middleTileTop: 9
+				qm_middleTileBottom: 9
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 24
-				qm_rightTileTop: 4
-				qm_rightTileBottom: 14
+				qm_rightImageID: 238
+				qm_rightTileTop: 9
+				qm_rightTileBottom: 9
 				qm_rightTileRight: 4
 				qm_rightTileLeft: 2
 				radius: 2
 			}
 			IGuiListScrollBarCtrl
 			{
-				id: qus469762050
+				id: qus469762051
 
 			}
 			qm_UseRowSpecificColor: true
 		}
 		IGuiGraphicSwitch
 		{
-			id: q352321538
-			objId: 352321538
+			id: q352321539
+			objId: 352321539
 			x: 7
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -128,10 +128,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539540
-			objId: 486539540
+			id: q486539600
+			objId: 486539600
 			x: 56
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -154,10 +154,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539541
-			objId: 486539541
+			id: q486539601
+			objId: 486539601
 			x: 105
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -180,10 +180,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539542
-			objId: 486539542
+			id: q486539602
+			objId: 486539602
 			x: 154
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -206,10 +206,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539543
-			objId: 486539543
+			id: q486539603
+			objId: 486539603
 			x: 203
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -232,10 +232,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539544
-			objId: 486539544
+			id: q486539604
+			objId: 486539604
 			x: 252
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3

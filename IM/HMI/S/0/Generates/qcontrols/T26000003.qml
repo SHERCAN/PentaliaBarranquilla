@@ -9,8 +9,8 @@ IGuiTemplate
 	height: 480
 	IGuiButton
 	{
-		id: q486539594
-		objId: 486539594
+		id: q486539649
+		objId: 486539649
 		x: 96
 		y: 440
 		width: 99
@@ -32,5 +32,35 @@ IGuiTemplate
 		qm_Anchors.topMargin: 1
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
+	}
+	IGuiQmlRectangle
+	{
+		id: q671088803
+		objId: 671088803
+		x: 0
+		y: 0
+		width: 800
+		height: 57
+		qm_BorderWidth: 1
+		qm_TextColor: "#ff9c9aa5"
+		qm_FillColor: "#ffffffff"
+		qm_RectangleWidth: 800
+		qm_RectangleHeight: 57
+	}
+	IGuiTextField
+	{
+		id: q268435749
+		objId: 268435749
+		x: 271
+		y: 2
+		width: 258
+		height: 27
+		qm_Transparent : true 
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 2
+		qm_Anchors.leftMargin: 3
+		qm_Anchors.rightMargin: 2
+		qm_Anchors.topMargin: 2
 	}
 }

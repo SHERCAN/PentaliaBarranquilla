@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiTrendView
 	{
-		id: q469762052
-		objId: 469762052
+		id: q469762053
+		objId: 469762053
 		x: 0
 		y: 57
 		width: 800
@@ -27,15 +27,15 @@ IGuiPage
 		qm_TrendXPos: 2
 		qm_TrendYPos: 2
 		qm_TrendWidth: 796
-		qm_TrendHeight: 278
+		qm_TrendHeight: 259
 		IGuiListCtrl
 		{
-			id: qu469762052
-			objectName: "qu469762052"
+			id: qu469762053
+			objectName: "qu469762053"
 			x: 6
-			y: 318
+			y: 299
 			width: 788
-			height: 59
+			height: 78
 			qm_list.qm_linesPerRow: 1
 			qm_list.qm_tableRowHeight: 16
 			qm_list.qm_tableMarginLeft: 3
@@ -48,7 +48,7 @@ IGuiPage
 			qm_list.qm_tableTextColor: "#ff181c31"
 			qm_list.qm_tableSelectTextColor: "#ff424952"
 			qm_list.qm_tableAlternateTextColor: "#ff181c31"
-			qm_scrollCtrl: qus469762052
+			qm_scrollCtrl: qus469762053
 
 			qm_hasHeader: true
 			qm_hasBorder: true
@@ -59,12 +59,12 @@ IGuiPage
 			qm_list.qm_gridLineColor: "#ffffffff"
 			qm_columnTypeList: [0, 0, 0, 0]
 			totalColumnWidth: 761
-			qm_headerItem: qh469762052
+			qm_headerItem: qh469762053
 			IGuiListHeader
 			{
-				id: qh469762052
+				id: qh469762053
 				width: 761
-				qm_listItem: qu469762052
+				qm_listItem: qu469762053
 				qm_columnWidthList: [350, 106, 143, 162]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
@@ -76,36 +76,36 @@ IGuiPage
 				qm_tableHeaderMarginTop: 1
 				qm_noOfColumns: 4
 				qm_tableHeaderHeight: 16
-				qm_leftImageID: 22
-				qm_leftTileTop: 4
-				qm_leftTileBottom: 14
+				qm_leftImageID: 236
+				qm_leftTileTop: 9
+				qm_leftTileBottom: 9
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 23
-				qm_middleTileTop: 2
-				qm_middleTileBottom: 15
+				qm_middleImageID: 237
+				qm_middleTileTop: 9
+				qm_middleTileBottom: 9
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 24
-				qm_rightTileTop: 4
-				qm_rightTileBottom: 14
+				qm_rightImageID: 238
+				qm_rightTileTop: 9
+				qm_rightTileBottom: 9
 				qm_rightTileRight: 4
 				qm_rightTileLeft: 2
 				radius: 2
 			}
 			IGuiListScrollBarCtrl
 			{
-				id: qus469762052
+				id: qus469762053
 
 			}
 			qm_UseRowSpecificColor: true
 		}
 		IGuiGraphicSwitch
 		{
-			id: q352321540
-			objId: 352321540
+			id: q352321541
+			objId: 352321541
 			x: 7
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -128,10 +128,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539550
-			objId: 486539550
+			id: q486539611
+			objId: 486539611
 			x: 56
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -154,10 +154,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539551
-			objId: 486539551
+			id: q486539612
+			objId: 486539612
 			x: 105
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -180,10 +180,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539552
-			objId: 486539552
+			id: q486539613
+			objId: 486539613
 			x: 154
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -206,10 +206,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539553
-			objId: 486539553
+			id: q486539614
+			objId: 486539614
 			x: 203
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -232,10 +232,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539554
-			objId: 486539554
+			id: q486539615
+			objId: 486539615
 			x: 252
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -256,5 +256,31 @@ IGuiPage
 			qm_SourceSizeWidth: 38
 			qm_SourceSizeHeight: 28
 		}
+	}
+	IGuiButton
+	{
+		id: q486539610
+		objId: 486539610
+		x: 699
+		y: 0
+		width: 99
+		height: 39
+		qm_BorderCornerRadius: 3
+		qm_BorderWidth: 1
+		qm_ImageSource: "image://QSmartImageProvider/19#2#4#128#0#0"
+		qm_Border.top: 15
+		qm_Border.bottom: 15
+		qm_Border.right: 5
+		qm_Border.left: 5
+		qm_FillColor: "#ffe7e3e7"
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 1
+		qm_Anchors.leftMargin: 1
+		qm_Anchors.rightMargin: 1
+		qm_Anchors.topMargin: 1
+		qm_FocusWidth: 2
+		qm_FocusColor: "#ff94b6e7"
 	}
 }

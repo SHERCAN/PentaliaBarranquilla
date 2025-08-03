@@ -27,15 +27,15 @@ IGuiPage
 		qm_TrendXPos: 2
 		qm_TrendYPos: 2
 		qm_TrendWidth: 796
-		qm_TrendHeight: 278
+		qm_TrendHeight: 259
 		IGuiListCtrl
 		{
 			id: qu469762048
 			objectName: "qu469762048"
 			x: 6
-			y: 318
+			y: 299
 			width: 788
-			height: 59
+			height: 78
 			qm_list.qm_linesPerRow: 1
 			qm_list.qm_tableRowHeight: 16
 			qm_list.qm_tableMarginLeft: 3
@@ -76,19 +76,19 @@ IGuiPage
 				qm_tableHeaderMarginTop: 1
 				qm_noOfColumns: 4
 				qm_tableHeaderHeight: 16
-				qm_leftImageID: 22
-				qm_leftTileTop: 4
-				qm_leftTileBottom: 14
+				qm_leftImageID: 236
+				qm_leftTileTop: 9
+				qm_leftTileBottom: 9
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 23
-				qm_middleTileTop: 2
-				qm_middleTileBottom: 15
+				qm_middleImageID: 237
+				qm_middleTileTop: 9
+				qm_middleTileBottom: 9
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 24
-				qm_rightTileTop: 4
-				qm_rightTileBottom: 14
+				qm_rightImageID: 238
+				qm_rightTileTop: 9
+				qm_rightTileBottom: 9
 				qm_rightTileRight: 4
 				qm_rightTileLeft: 2
 				radius: 2
@@ -105,7 +105,7 @@ IGuiPage
 			id: q352321536
 			objId: 352321536
 			x: 7
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -128,10 +128,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539530
-			objId: 486539530
+			id: q486539585
+			objId: 486539585
 			x: 56
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -154,10 +154,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539531
-			objId: 486539531
+			id: q486539586
+			objId: 486539586
 			x: 105
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -180,10 +180,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539532
-			objId: 486539532
+			id: q486539587
+			objId: 486539587
 			x: 154
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -206,10 +206,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539533
-			objId: 486539533
+			id: q486539588
+			objId: 486539588
 			x: 203
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
@@ -232,10 +232,10 @@ IGuiPage
 		}
 		IGuiGraphicButton
 		{
-			id: q486539534
-			objId: 486539534
+			id: q486539589
+			objId: 486539589
 			x: 252
-			y: 280
+			y: 261
 			width: 44
 			height: 32
 			qm_BorderCornerRadius: 3
