@@ -2,18 +2,18 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="17.0.0.0"
-    CreationTime="2025-08-03 00:19:15 (UTC)"
+    CreationTime="2025-08-04 21:02:52 (UTC)"
     Runtime="SMART"
     RtProjectName="RHIKOR Barranquill Agua Renovada_V19.HMI_1[KTP900 Basic PN]"
     RtProjectFolderName="RHIKOR Barranquill Agua Renovada_V19.HMI_1[KTP900 Basic PN]"
     DeviceType="KTP900_Basic"
     DisplayOrientation="0"
-    RTReleaseNo="17.0.0.0"
-    ImageReleaseNo="17.0.0.0"
+    RTReleaseNo="17.0.0.8"
+    ImageReleaseNo="17.0.0.8"
     RTCV="17.0.0.0"
     PRCV="17.0.0.0"
-    FirmwareFileName=""
-    RuntimeFileName=""
+    FirmwareFileName="KTP900\17.0.0.8\KTP900_V17_00_00_08.fwf"
+    RuntimeFileName="KTP900\17.0.0.8\KTP900_V17_00_00_08.fwf"
     RuntimeAddonFolderName="KTP900" />
   <FullDownload>pdata.srt</FullDownload>
   <FullDownload
