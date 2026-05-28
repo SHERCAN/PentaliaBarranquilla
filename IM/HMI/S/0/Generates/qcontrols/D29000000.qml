@@ -28,8 +28,8 @@ IGuiDialogView
 	IGuiModality{ }
 	IGuiTextField
 	{
-		id: q268435664
-		objId: 268435664
+		id: q268435714
+		objId: 268435714
 		x: 92
 		y: 103
 		width: 100
@@ -47,8 +47,8 @@ IGuiDialogView
 	}
 	IGuiIOField
 	{
-		id: q33554559
-		objId: 33554559
+		id: q33554607
+		objId: 33554607
 		x: 200
 		y: 103
 		width: 264
@@ -68,8 +68,8 @@ IGuiDialogView
 	}
 	IGuiTextField
 	{
-		id: q268435665
-		objId: 268435665
+		id: q268435715
+		objId: 268435715
 		x: 92
 		y: 137
 		width: 100
@@ -87,8 +87,8 @@ IGuiDialogView
 	}
 	IGuiIOField
 	{
-		id: q33554560
-		objId: 33554560
+		id: q33554608
+		objId: 33554608
 		x: 200
 		y: 137
 		width: 264
@@ -109,8 +109,8 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539725
-		objId: 486539725
+		id: q486539570
+		objId: 486539570
 		x: 383
 		y: 194
 		width: 97
@@ -134,14 +134,14 @@ IGuiDialogView
 	}
 	IGuiButton
 	{
-		id: q486539726
-		objId: 486539726
+		id: q486539571
+		objId: 486539571
 		x: 287
 		y: 194
 		width: 97
 		height: 34
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/234#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/249#2#4#128#0#0"
 		qm_Border.top: 12
 		qm_Border.bottom: 12
 		qm_Border.right: 2
@@ -159,8 +159,8 @@ IGuiDialogView
 	}
 	IGuiGraphicButton
 	{
-		id: q486539727
-		objId: 486539727
+		id: q486539572
+		objId: 486539572
 		x: 446
 		y: 0
 		width: 34
@@ -180,8 +180,8 @@ IGuiDialogView
 	}
 	IGuiQmlRectangle
 	{
-		id: q671088761
-		objId: 671088761
+		id: q671088781
+		objId: 671088781
 		x: 0
 		y: 194
 		width: 478

@@ -7,10 +7,24 @@ IGuiTemplate
 	y: 0
 	width: 800
 	height: 480
+	IGuiQmlRectangle
+	{
+		id: q671088756
+		objId: 671088756
+		x: 0
+		y: 0
+		width: 800
+		height: 57
+		qm_BorderWidth: 1
+		qm_TextColor: "#ff9c9aa5"
+		qm_FillColor: "#ffffffff"
+		qm_RectangleWidth: 800
+		qm_RectangleHeight: 57
+	}
 	IGuiButton
 	{
-		id: q486539649
-		objId: 486539649
+		id: q486539558
+		objId: 486539558
 		x: 96
 		y: 440
 		width: 99
@@ -33,27 +47,13 @@ IGuiTemplate
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
 	}
-	IGuiQmlRectangle
-	{
-		id: q671088803
-		objId: 671088803
-		x: 0
-		y: 0
-		width: 800
-		height: 57
-		qm_BorderWidth: 1
-		qm_TextColor: "#ff9c9aa5"
-		qm_FillColor: "#ffffffff"
-		qm_RectangleWidth: 800
-		qm_RectangleHeight: 57
-	}
 	IGuiTextField
 	{
-		id: q268435749
-		objId: 268435749
-		x: 271
+		id: q268435638
+		objId: 268435638
+		x: 259
 		y: 2
-		width: 258
+		width: 282
 		height: 27
 		qm_Transparent : true 
 		qm_TextColor: "#ff31344a"
