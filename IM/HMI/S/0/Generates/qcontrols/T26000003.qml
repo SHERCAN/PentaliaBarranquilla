@@ -9,8 +9,8 @@ IGuiTemplate
 	height: 480
 	IGuiQmlRectangle
 	{
-		id: q671088741
-		objId: 671088741
+		id: q671088739
+		objId: 671088739
 		x: 0
 		y: 0
 		width: 800
@@ -23,8 +23,8 @@ IGuiTemplate
 	}
 	IGuiButton
 	{
-		id: q486539546
-		objId: 486539546
+		id: q486539543
+		objId: 486539543
 		x: 96
 		y: 440
 		width: 99

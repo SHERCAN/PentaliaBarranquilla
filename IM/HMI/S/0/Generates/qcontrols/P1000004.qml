@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiRectangle
 	{
-		id: q671088762
-		objId: 671088762
+		id: q671088760
+		objId: 671088760
 		x: 50
 		y: 130
 		width: 300
@@ -26,8 +26,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088763
-		objId: 671088763
+		id: q671088761
+		objId: 671088761
 		x: 45
 		y: 127
 		width: 300
@@ -42,8 +42,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088764
-		objId: 671088764
+		id: q671088762
+		objId: 671088762
 		x: 453
 		y: 133
 		width: 300
@@ -58,8 +58,8 @@ IGuiPage
 	}
 	IGuiRectangle
 	{
-		id: q671088765
-		objId: 671088765
+		id: q671088763
+		objId: 671088763
 		x: 449
 		y: 129
 		width: 300
@@ -125,8 +125,8 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539554
-		objId: 486539554
+		id: q486539551
+		objId: 486539551
 		x: 47
 		y: 128
 		width: 299
@@ -141,8 +141,8 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539555
-		objId: 486539555
+		id: q486539552
+		objId: 486539552
 		x: 449
 		y: 128
 		width: 302
@@ -157,15 +157,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539556
-		objId: 486539556
+		id: q486539553
+		objId: 486539553
 		x: 0
 		y: 448
 		width: 96
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 2
-		qm_ImageSource: "image://QSmartImageProvider/255#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/250#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5

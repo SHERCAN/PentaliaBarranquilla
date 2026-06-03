@@ -18,8 +18,8 @@ IGuiPage
 		height: 135
 		IGuiQmlRectangle
 		{
-			id: q671088740
-			objId: 671088740
+			id: q671088738
+			objId: 671088738
 			x: 0
 			y: 0
 			width: 225
