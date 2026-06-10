@@ -24,8 +24,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554511
-		objId: 33554511
+		id: q33554510
+		objId: 33554510
 		x: 199
 		y: 122
 		width: 96
@@ -83,8 +83,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554512
-		objId: 33554512
+		id: q33554511
+		objId: 33554511
 		x: 199
 		y: 186
 		width: 96
@@ -125,8 +125,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554513
-		objId: 33554513
+		id: q33554512
+		objId: 33554512
 		x: 199
 		y: 253
 		width: 96
@@ -167,8 +167,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554514
-		objId: 33554514
+		id: q33554513
+		objId: 33554513
 		x: 199
 		y: 320
 		width: 96
@@ -209,15 +209,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539459
-		objId: 486539459
+		id: q486539457
+		objId: 486539457
 		x: 0
 		y: 440
 		width: 99
 		height: 39
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/86#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -234,15 +234,15 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539460
-		objId: 486539460
+		id: q486539458
+		objId: 486539458
 		x: 700
 		y: 441
 		width: 99
 		height: 39
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/86#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/83#2#4#128#0#0"
 		qm_Border.top: 15
 		qm_Border.bottom: 15
 		qm_Border.right: 5
@@ -273,8 +273,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554515
-		objId: 33554515
+		id: q33554514
+		objId: 33554514
 		x: 407
 		y: 118
 		width: 96
@@ -332,8 +332,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554516
-		objId: 33554516
+		id: q33554515
+		objId: 33554515
 		x: 407
 		y: 186
 		width: 96
@@ -374,8 +374,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554517
-		objId: 33554517
+		id: q33554516
+		objId: 33554516
 		x: 407
 		y: 253
 		width: 96
@@ -416,8 +416,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554518
-		objId: 33554518
+		id: q33554517
+		objId: 33554517
 		x: 407
 		y: 320
 		width: 96
@@ -458,8 +458,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554519
-		objId: 33554519
+		id: q33554518
+		objId: 33554518
 		x: 599
 		y: 118
 		width: 96
@@ -500,8 +500,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554520
-		objId: 33554520
+		id: q33554519
+		objId: 33554519
 		x: 599
 		y: 186
 		width: 96
@@ -542,8 +542,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554521
-		objId: 33554521
+		id: q33554520
+		objId: 33554520
 		x: 599
 		y: 253
 		width: 96
@@ -584,8 +584,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554522
-		objId: 33554522
+		id: q33554521
+		objId: 33554521
 		x: 599
 		y: 320
 		width: 96
@@ -626,8 +626,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554523
-		objId: 33554523
+		id: q33554522
+		objId: 33554522
 		x: 409
 		y: 388
 		width: 96
@@ -668,8 +668,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554524
-		objId: 33554524
+		id: q33554523
+		objId: 33554523
 		x: 601
 		y: 388
 		width: 96
@@ -727,8 +727,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554525
-		objId: 33554525
+		id: q33554524
+		objId: 33554524
 		x: 199
 		y: 383
 		width: 96

@@ -96,8 +96,8 @@ IGuiPage
 	{
 		id: q335544326
 		objId: 335544326
-		x: 423
-		y: 204
+		x: 410
+		y: 218
 		width: 30
 		height: 30
 		qm_Transparent : true 
@@ -124,7 +124,7 @@ IGuiPage
 	{
 		id: q33554437
 		objId: 33554437
-		x: 75
+		x: 69
 		y: 265
 		width: 89
 		height: 23
@@ -147,7 +147,7 @@ IGuiPage
 	{
 		id: q33554438
 		objId: 33554438
-		x: 90
+		x: 77
 		y: 329
 		width: 73
 		height: 19
@@ -179,9 +179,9 @@ IGuiPage
 	}
 	IGuiGraphicButton
 	{
-		id: q486539296
-		objId: 486539296
-		x: 77
+		id: q486539295
+		objId: 486539295
+		x: 70
 		y: 261
 		width: 88
 		height: 31
@@ -214,10 +214,24 @@ IGuiPage
 	}
 	IGuiGraphicIOFieldOutput
 	{
-		id: q335544352
-		objId: 335544352
+		id: q335544351
+		objId: 335544351
 		x: 526
 		y: 154
+		width: 30
+		height: 30
+		qm_Transparent : true 
+		qm_ImageWidth: 30
+		qm_ImageHeight: 30
+		qm_SourceSizeWidth: 30
+		qm_SourceSizeHeight: 30
+	}
+	IGuiGraphicIOFieldOutput
+	{
+		id: q335544352
+		objId: 335544352
+		x: 466
+		y: 281
 		width: 30
 		height: 30
 		qm_Transparent : true 
@@ -231,7 +245,7 @@ IGuiPage
 		id: q335544353
 		objId: 335544353
 		x: 495
-		y: 318
+		y: 198
 		width: 30
 		height: 30
 		qm_Transparent : true 
@@ -244,20 +258,6 @@ IGuiPage
 	{
 		id: q335544354
 		objId: 335544354
-		x: 495
-		y: 198
-		width: 30
-		height: 30
-		qm_Transparent : true 
-		qm_ImageWidth: 30
-		qm_ImageHeight: 30
-		qm_SourceSizeWidth: 30
-		qm_SourceSizeHeight: 30
-	}
-	IGuiGraphicIOFieldOutput
-	{
-		id: q335544355
-		objId: 335544355
 		x: 740
 		y: 389
 		width: 30
@@ -270,8 +270,8 @@ IGuiPage
 	}
 	IGuiGraphicIOFieldOutput
 	{
-		id: q335544356
-		objId: 335544356
+		id: q335544355
+		objId: 335544355
 		x: 561
 		y: 356
 		width: 50
@@ -307,8 +307,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554608
-		objId: 33554608
+		id: q33554600
+		objId: 33554600
 		x: 622
 		y: 308
 		width: 73
@@ -326,8 +326,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554609
-		objId: 33554609
+		id: q33554601
+		objId: 33554601
 		x: 622
 		y: 339
 		width: 66
@@ -345,8 +345,8 @@ IGuiPage
 	}
 	IGuiIOField
 	{
-		id: q33554610
-		objId: 33554610
+		id: q33554602
+		objId: 33554602
 		x: 522
 		y: 255
 		width: 76
@@ -364,8 +364,8 @@ IGuiPage
 	}
 	IGuiGraphicIOFieldOutput
 	{
-		id: q335544359
-		objId: 335544359
+		id: q335544358
+		objId: 335544358
 		x: 600
 		y: 157
 		width: 50
@@ -378,8 +378,8 @@ IGuiPage
 	}
 	IGuiQmlCircle
 	{
-		id: q671088769
-		objId: 671088769
+		id: q671088758
+		objId: 671088758
 		x: 724
 		y: 166
 		width: 20
@@ -393,15 +393,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539555
-		objId: 486539555
+		id: q486539516
+		objId: 486539516
 		x: 100
 		y: 56
 		width: 97
 		height: 52
 		qm_BorderCornerRadius: 5
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/260#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/248#2#4#128#0#0"
 		qm_Border.top: 10
 		qm_Border.bottom: 10
 		qm_Border.right: 7
@@ -419,15 +419,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539556
-		objId: 486539556
+		id: q486539517
+		objId: 486539517
 		x: 300
 		y: 56
 		width: 97
 		height: 52
 		qm_BorderCornerRadius: 5
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/260#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/248#2#4#128#0#0"
 		qm_Border.top: 10
 		qm_Border.bottom: 10
 		qm_Border.right: 7
@@ -445,15 +445,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539557
-		objId: 486539557
+		id: q486539518
+		objId: 486539518
 		x: 200
 		y: 56
 		width: 97
 		height: 52
 		qm_BorderCornerRadius: 5
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/260#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/248#2#4#128#0#0"
 		qm_Border.top: 10
 		qm_Border.bottom: 10
 		qm_Border.right: 7
@@ -471,15 +471,15 @@ IGuiPage
 	}
 	IGuiButton
 	{
-		id: q486539558
-		objId: 486539558
+		id: q486539519
+		objId: 486539519
 		x: 0
 		y: 56
 		width: 97
 		height: 52
 		qm_BorderCornerRadius: 5
 		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/260#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/248#2#4#128#0#0"
 		qm_Border.top: 10
 		qm_Border.bottom: 10
 		qm_Border.right: 7
@@ -537,8 +537,8 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539297
-			objId: 486539297
+			id: q486539296
+			objId: 486539296
 			x: 89
 			y: 140
 			width: 103
@@ -617,8 +617,8 @@ IGuiPage
 		}
 		IGuiButton
 		{
-			id: q486539298
-			objId: 486539298
+			id: q486539297
+			objId: 486539297
 			x: 227
 			y: 3
 			width: 35
