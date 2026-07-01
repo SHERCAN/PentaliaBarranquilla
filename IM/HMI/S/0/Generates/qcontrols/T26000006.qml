@@ -9,8 +9,8 @@ IGuiTemplate
 	height: 480
 	IGuiButton
 	{
-		id: q486539492
-		objId: 486539492
+		id: q486539520
+		objId: 486539520
 		x: 300
 		y: 441
 		width: 206

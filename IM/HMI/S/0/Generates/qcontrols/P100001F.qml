@@ -10,36 +10,36 @@ IGuiPage
 	height: 480
 	IGuiContainer
 	{
-		id: q369098775
-		objId: 369098775
+		id: q369098774
+		objId: 369098774
 		x: 288
 		y: 272
 		width: 225
 		height: 135
 		IGuiQmlRectangle
 		{
-			id: q671088722
-			objId: 671088722
+			id: q671088732
+			objId: 671088732
 			x: 0
 			y: 0
 			width: 225
 			height: 135
 			qm_BorderWidth: 4
-			qm_TextColor: "#ffff9a00"
-			qm_FillColor: "#ffff6500"
+			qm_TextColor: "#ffffff00"
+			qm_FillColor: "#ffff0000"
 			qm_RectangleWidth: 225
 			qm_RectangleHeight: 135
 		}
 		IGuiTextField
 		{
-			id: q268435609
-			objId: 268435609
+			id: q268435624
+			objId: 268435624
 			x: 14
 			y: 57
 			width: 198
 			height: 22
 			qm_BorderCornerRadius: 3
-			qm_ImageSource: "image://QSmartImageProvider/44#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/46#2#4#128#0#0"
 			qm_Border.top: 0
 			qm_Border.bottom: 0
 			qm_Border.right: 0
