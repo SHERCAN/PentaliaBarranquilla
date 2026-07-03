@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiContainer
 	{
-		id: q369098768
-		objId: 369098768
+		id: q369098767
+		objId: 369098767
 		x: 1
 		y: 11
 		width: 265
@@ -157,8 +157,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098769
-		objId: 369098769
+		id: q369098768
+		objId: 369098768
 		x: 267
 		y: 11
 		width: 265
@@ -304,8 +304,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098770
-		objId: 369098770
+		id: q369098769
+		objId: 369098769
 		x: 533
 		y: 11
 		width: 265
@@ -451,8 +451,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098773
-		objId: 369098773
+		id: q369098772
+		objId: 369098772
 		x: 534
 		y: 240
 		width: 265
@@ -598,8 +598,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098772
-		objId: 369098772
+		id: q369098771
+		objId: 369098771
 		x: 268
 		y: 241
 		width: 265
@@ -745,8 +745,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098771
-		objId: 369098771
+		id: q369098770
+		objId: 369098770
 		x: 1
 		y: 238
 		width: 265

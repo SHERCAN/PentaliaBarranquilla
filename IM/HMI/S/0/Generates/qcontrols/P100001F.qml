@@ -10,8 +10,8 @@ IGuiPage
 	height: 480
 	IGuiContainer
 	{
-		id: q369098774
-		objId: 369098774
+		id: q369098773
+		objId: 369098773
 		x: 288
 		y: 272
 		width: 225

@@ -509,10 +509,29 @@ IGuiPage
 		qm_FocusWidth: 2
 		qm_FocusColor: "#ff94b6e7"
 	}
+	IGuiIOField
+	{
+		id: q33554617
+		objId: 33554617
+		x: 366
+		y: 372
+		width: 65
+		height: 19
+		qm_BorderCornerRadius: 7
+		qm_BorderWidth: 1
+		qm_RectangleBorder.color:"#ff424952"
+		qm_FillColor: "#ffffffff"
+		qm_TextColor: "#ff31344a"
+		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
+		qm_Anchors.bottomMargin: 3
+		qm_Anchors.leftMargin: 4
+		qm_Anchors.rightMargin: 3
+		qm_Anchors.topMargin: 3
+	}
 	IGuiContainer
 	{
-		id: q369098764
-		objId: 369098764
+		id: q369098763
+		objId: 369098763
 		x: 268
 		y: 107
 		width: 265
@@ -658,8 +677,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098765
-		objId: 369098765
+		id: q369098764
+		objId: 369098764
 		x: 268
 		y: 107
 		width: 265
@@ -805,8 +824,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098767
-		objId: 369098767
+		id: q369098766
+		objId: 369098766
 		x: 288
 		y: 272
 		width: 225
@@ -851,8 +870,8 @@ IGuiPage
 	}
 	IGuiContainer
 	{
-		id: q369098766
-		objId: 369098766
+		id: q369098765
+		objId: 369098765
 		x: 288
 		y: 272
 		width: 225

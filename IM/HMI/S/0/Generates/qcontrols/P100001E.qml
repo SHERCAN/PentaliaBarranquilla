@@ -196,7 +196,7 @@ IGuiPage
 		height: 32
 		qm_BorderCornerRadius: 3
 		qm_BorderWidth: 4
-		qm_ImageSource: "image://QSmartImageProvider/243#2#4#128#0#0"
+		qm_ImageSource: "image://QSmartImageProvider/241#2#4#128#0#0"
 		qm_Border.top: 5
 		qm_Border.bottom: 5
 		qm_Border.right: 5
